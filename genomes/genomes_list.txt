@@ -1,0 +1,11 @@
+STRPN_M1        2013/07/02	GCF_000349925.2	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/349/925/GCF_000349925.2_ASM34992v2	Streptococcus pyogenes M1 476	strain=M1 476
+STRPN_M1GAS     2014/04/01	GCF_000006785.2	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/006/785/GCF_000006785.2_ASM678v2	Streptococcus pyogenes M1 GAS	strain=SF370
+STAAU_MRSA252   2004/06/25	GCF_000011505.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/011/505/GCF_000011505.1_ASM1150v1	Staphylococcus aureus subsp. aureus MRSA252	strain=MRSA252
+STAAU_MSSA476   2004/06/25	GCF_000011525.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/011/525/GCF_000011525.1_ASM1152v1	Staphylococcus aureus subsp. aureus MSSA476	strain=MSSA476
+STAAU_NCTC8325  2006/02/13	GCF_000013425.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/013/425/GCF_000013425.1_ASM1342v1	Staphylococcus aureus subsp. aureus NCTC 8325	strain=NCTC 8325
+ECOLI_W3110     2006/01/23	GCF_000010245.2	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/010/245/GCF_000010245.2_ASM1024v1	Escherichia coli str. K-12 substr. W3110	strain=K-12 substr. W3110
+ECOLI_DH10B     2008/03/14	GCF_000019425.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/019/425/GCF_000019425.1_ASM1942v1	Escherichia coli str. K-12 substr. DH10B	strain=K-12 substr. DH10B
+CAMJE_NCTC11168 2003/05/06	GCF_000009085.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/009/085/GCF_000009085.1_ASM908v1	Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819	strain=NCTC 11168
+FRATU_U112      2015/02/06	GCF_000833375.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/833/375/GCF_000833375.1_ASM83337v1	Francisella tularensis subsp. novicida U112	strain=U112
+ECOLI_MG1655	2013/09/26	GCF_000005845.2	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2	Escherichia coli str. K-12 substr. MG1655	strain=K-12 substr. MG1655
+ECOLI_O157H7	2018/06/08	GCF_000008865.2	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/008/865/GCF_000008865.2_ASM886v2	Escherichia coli O157:H7 str. Sakai	strain=Sakai substr. RIMD 0509952
